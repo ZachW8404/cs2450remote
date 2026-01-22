@@ -1,13 +1,15 @@
 import random
-def guess():
-    return random.randint(15 , 30)
+def guess(x = 15, y = 30):
+    return random.randint(x, y)
 userName = input("What is your name?")
 correct = False
+currentGuess = guess()
 while not correct:
-    currentGuess = guess()
-    response = input(f"are you {currentGuess} years old? (y/n)" )
-    if response == "y":
+    response = input(f"are you {currentGuess} years old? (older/younger/correct)" )
+    if response == "older":
+        currentGuess = guess(currentGuess, 30)
+    elif response == "younger":
+        currentGuess = guess(15, currentGuess)
+    elif response == "correct":
         correct = True
-    else:
-        print("Rats")
 print(userName + " is " + str(currentGuess) + " years old")
