@@ -8,9 +8,6 @@ while not correct:
     response = input(f"are you {currentGuess} years old? (y/n)" )
     if response == "y":
         correct = True
-    elif response == "n":
-        print("Rats")
     else:
-        print("Invalid response")
-        continue
+        print("Rats")
 print(userName + " is " + str(currentGuess) + " years old")
