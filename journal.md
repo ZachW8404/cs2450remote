@@ -1,0 +1,2 @@
+Date - 1/25/25: Started Journal
+    Today is the first day of logging in this journal. So far in the class we have learned about git/github, and have broken into our teams for the social media project. In the past, group projects have never been my favorite, but I think this one will be okay. My team seems very compotent (moreso than I in many ways), so we can hopefully build a great product. I have used github in the past, but never from the development side, so it is fascinating to learn how it works.
