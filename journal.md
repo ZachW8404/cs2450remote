@@ -1,2 +1,5 @@
-Date - 1/25/25: Started Journal
+Date - 1/25/26: Started Journal
     Today is the first day of logging in this journal. So far in the class we have learned about git/github, and have broken into our teams for the social media project. In the past, group projects have never been my favorite, but I think this one will be okay. My team seems very compotent (moreso than I in many ways), so we can hopefully build a great product. I have used github in the past, but never from the development side, so it is fascinating to learn how it works.
+
+Date - 2/15/26: Making a flowchart
+    Today I was tasked with making a flowchart that represented the login screen of our social media platform. I think I did a pretty good job for the most part, though I was a little unsure as to what level of secutiry we wanted to implement. I ended up going with what would look the best in the flowchart. I kinda feel like the underdog of the team, since I don't have nearly as much experience as the others. I am trying my best to keep up and not be a liability.
