@@ -6,3 +6,6 @@ Date - 2/15/26: Making a flowchart
 
 Date - 2/22/26: Presentation time
     This week we worked on prepping a slideshow for a presentation for the class. I tend to be good at public speaking, so I'm hoping that will carry over and let us have a great presentation. I'm pretty happy with where our slideshow is at right now after working on it all week. We've also been looking at starting to implement some our ideas for our project.
+
+Date - 3/1/26: Starting to build
+    The presentation went very well last week, I'm happy that our work came together into a good final product. Next week is the first week where we will really be building the actual website. I am extremely inexperienced with HTML and CSS so I'm really hoping that I can be of use to my team with my limited skillset. Porter was chosen as our fisrt scrum master this week, and it seems that it will be selected randomly for our group each week.
