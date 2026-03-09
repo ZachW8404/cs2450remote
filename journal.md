@@ -9,3 +9,6 @@ Date - 2/22/26: Presentation time
 
 Date - 3/1/26: Starting to build
     The presentation went very well last week, I'm happy that our work came together into a good final product. Next week is the first week where we will really be building the actual website. I am extremely inexperienced with HTML and CSS so I'm really hoping that I can be of use to my team with my limited skillset. Porter was chosen as our fisrt scrum master this week, and it seems that it will be selected randomly for our group each week.
+
+Date - 3/8/26: Creating a database
+    The problem that we are currently facing is the development and usage of a database. None of us really know how to use one, so we're all trying to learn how to in order to be able to utilize it for the project. We've deduced that TinyDB will not work for what we are trying to do, so we have to look into openSQL or an alternative. In other news, the homepage and login screen are looking great, and it's surreal to be able to visit the site that we created.
