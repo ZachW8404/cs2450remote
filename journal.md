@@ -12,3 +12,6 @@ Date - 3/1/26: Starting to build
 
 Date - 3/8/26: Creating a database
     The problem that we are currently facing is the development and usage of a database. None of us really know how to use one, so we're all trying to learn how to in order to be able to utilize it for the project. We've deduced that TinyDB will not work for what we are trying to do, so we have to look into openSQL or an alternative. In other news, the homepage and login screen are looking great, and it's surreal to be able to visit the site that we created.
+    
+Date - 3/15/26: Spring break
+    Over the break I familiarized myself with openSQL databases a bit more so that I'm ready for next class period. I also got Codex working on my machine so that I can use AI to help write html and edit the page format.
